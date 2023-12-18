@@ -1,0 +1,178 @@
+.navbar{
+   
+    height: 30px;
+    width: 100%;
+    color: blue;
+    display: flex;
+    align-items: center;
+    background-color: rgb(rgb(210, 29, 29));
+    background-image: linear-gradient(to right,rgb(236, 188, 188),rgb(225, 26, 26),rgb(215, 57, 57),rgb(144, 11, 11));
+    
+    
+ 
+}
+.p{
+    position: absolute;
+    margin: 50px;
+    left: 220px;
+    display: flex;
+    
+ 
+}
+
+.div1{
+    height: 300px;
+    width: 90%;
+    
+    background-color: azure;
+    
+    position: absolute;
+    right: 50px;
+    background-image: url("https://img.lovepik.com/free-png/20210919/lovepik-fashion-womens-summer-shopping-image-png-image_400331117_wh1200.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 400px;
+    background-position: 770px;
+    border-image: none;
+
+}
+.p1{
+    font-size: 15px;
+    font-weight: bolder;
+    left: 15px;
+    color: red;
+    text-decoration: none;
+}
+.p2{
+    position: absolute;
+    font-size: 15px;
+    font-weight: bolder;
+    left: 1100px;
+    color: aqua;
+
+}
+.p3{
+    position: absolute;
+    font-size: 15px;
+    font-weight: bolder;
+    left: 900px;
+    color: red;
+}
+.p4{
+    position: absolute;
+    font-size: 15px;
+    font-weight: bolder;
+    left: 800px;
+}
+.div2{
+    position: absolute;
+    height: 80px;
+    width: 100%;
+    background-color: yellow;
+   
+    top: 390px;
+    box-sizing: border-box;
+    background-image: url("https://www.pngall.com/wp-content/uploads/2018/04/Clothing-PNG-Pic.png");
+     background-size: 120px;
+     background-repeat: no-repeat;
+     background-position: 100px;
+     
+     
+     
+     
+}
+p{
+    position: absolute;
+    font-size: 35px;
+    left: 400px;
+}
+.marquee{
+   position: absolute;
+   top: 25px;
+   color: red;
+   font-weight: bold;
+   font-size: 30px;
+   word-spacing: 15px;
+  
+}
+.div3{
+    position: absolute;
+    height: 400px;
+    width: 200px;
+    background-image: url("https://i.pinimg.com/originals/3a/f8/1e/3af81e37d5c36d4caa69b244ae6be71f.png");
+    background-size: 240px;
+    top: 500px;
+    left: -20px;
+    
+   
+   
+}
+.subdiv1{
+    position: absolute;
+    height: 400px;
+    width: 200px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWyPY5selEp7cFKT7zA46ju8SkoDEVb9Wi0GFejdtt67Ta1774uza09-ybtlEMcmihrDM&usqp=CAU");
+    background-size: 170px;
+    top: 10px;
+    left: 300px;
+    background-repeat: no-repeat;
+    
+   
+}
+.subdiv2{
+    position: absolute;
+    height: 400px;
+    width: 300px;
+    background-image: url("https://www.pngmart.com/files/23/Kids-Wear-Transparent-PNG.png");
+    background-size: 300px;
+    top: -5px;
+    left: 500px;
+    background-repeat: no-repeat;
+    
+   
+}
+.subdiv3{
+    position: absolute;
+    height: 400px;
+    width: 300px;
+    background-image: url("https://www.pngall.com/wp-content/uploads/13/Girls-PNG-Cutout.png");
+    background-size: 300px;
+    top: -5px;
+    left: 780px;
+    background-repeat: no-repeat;
+    
+}
+.subdiv4{
+    position: absolute;
+    height: 400px;
+    width: 300px;
+    background-image: url("https://www.pngall.com/wp-content/uploads/13/Girls.png");
+    background-size: 300px;
+    top: 10px;
+    left: 1000px;
+    background-repeat: no-repeat;
+    
+    
+}
+h3{
+    position: absolute;
+    text-align: left;
+    left: 150px;
+    z-index: 4;
+    top: -70px;
+
+    font-size: 30px;
+    font-family: arial;
+    
+    
+}
+input{
+    position: absolute;
+    left: 50px;
+    top: 250px;
+    color: red;
+
+}
+#ss{
+    color: red;
+}
